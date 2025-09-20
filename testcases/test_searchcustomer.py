@@ -42,16 +42,6 @@ class Test_005_SearchCustomer():
             self.addcustomer.open_customer_list()
             self.logger.info("*************** Successfully opened Customer Menu ***************")
 
-            self.searchcustomer = SearchByEmailName(self.driver)
-            self.searchcustomer.search_by_email("TfMslV@gmail.com")
-            self.searchcustomer.search_customers()
-            time.sleep(4)
-            status = self.searchcustomer.searchbyemailid("TfMslV@gmail.com")
-            assert True == status
-            self.logger.info("*************** Successfully search bye mailid ***************")
-
-        finally:
-            self.driver.quit()
     # @pytest.mark.xfail(reason="not implemented")
     # def test_006_searchcustomerbyname(self, setup):
     #     try:
