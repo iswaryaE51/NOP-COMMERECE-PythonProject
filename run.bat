@@ -1,6 +1,5 @@
- pytest -v -s -m "smoke" --html=./Reports/report.html testcases
-REM pytest -v -s -m "sanity or regression" --html=./Reports/report.html testcases
-REM pytest -v -s -m "regression" --html=./Reports/report.html testcases
-pause
+REM Activate virtual environment
+call .venv\Scripts\activate.bat
 
-
+REM Run pytest
+pytest -v -s --html=./Reports/report.html testcases

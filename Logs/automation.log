@@ -299,3 +299,21 @@
 17-Sep-25 08:48:19 - AutomationLogger - INFO - ************** Successfully logged in **************
 17-Sep-25 08:48:23 - AutomationLogger - INFO - ************** Test_001_login **************
 17-Sep-25 08:48:26 - AutomationLogger - INFO - **************** Successfully logged in **************
+20-Sep-25 21:15:13 - AutomationLogger - INFO - ************** Test_003_Add Customer **************
+20-Sep-25 21:15:17 - AutomationLogger - INFO - ************** Successfully logged in **************
+20-Sep-25 21:15:22 - AutomationLogger - INFO - *************** Navigated to Add Customer Page ***************
+20-Sep-25 21:15:27 - AutomationLogger - INFO - Successfully added the new customer successfully.
+20-Sep-25 21:15:49 - AutomationLogger - INFO - ************** Test_002_login **************
+20-Sep-25 21:15:58 - AutomationLogger - INFO - **************** Login Successful **************
+20-Sep-25 21:16:06 - AutomationLogger - INFO - **************** Login Failed **************
+20-Sep-25 21:16:13 - AutomationLogger - INFO - **************** Login successful **************
+20-Sep-25 21:16:16 - AutomationLogger - WARNING - Logout button not found, skipping logout.
+20-Sep-25 21:16:17 - AutomationLogger - INFO - **************** Login successful **************
+20-Sep-25 21:16:20 - AutomationLogger - WARNING - Logout button not found, skipping logout.
+20-Sep-25 21:16:20 - AutomationLogger - INFO - **************** Login DDT IS SUCCESSFUL **************
+20-Sep-25 21:16:23 - AutomationLogger - INFO - **************** end of ddt IS SUCCESSFUL **************
+20-Sep-25 21:16:42 - AutomationLogger - INFO - ************** Test_001_homepage_title **************
+20-Sep-25 21:16:42 - AutomationLogger - INFO - ************** Verifying homepage_title **************
+20-Sep-25 21:16:45 - AutomationLogger - INFO - ************** Successfully logged in **************
+20-Sep-25 21:16:50 - AutomationLogger - INFO - ************** Test_001_login **************
+20-Sep-25 21:16:59 - AutomationLogger - INFO - **************** Successfully logged in **************
